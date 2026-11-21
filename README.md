@@ -11,11 +11,14 @@ using the OpenAI API.
 
 ## Setup
 
-### 1. Clone the repository
+### 1. Fork and clone the repository
+
+1. On GitHub, click **Fork** on this repository to create your own copy.
+2. Clone your fork:
 
 ```bash
-git clone <repository-url>
-cd ai-travel-advisor
+git clone https://github.com/<your-username>/deployment-demo---ai-app.git
+cd deployment-demo---ai-app
 ```
 
 ### 2. Create a virtual environment
